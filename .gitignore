@@ -6,3 +6,8 @@ __pycache__
 *.pyc
 *.egg-info
 requirements.txt
+
+# Mavenfeed files
+mvnfeed.log
+build
+dist
