@@ -16,7 +16,7 @@ VERSION = '0.0.1'
 # http://pypi.python.org/pypi/setuptools
 
 REQUIRES = [
-    'knack==0.5.1',
+    'knack==0.11.0',
 ]
 
 CLASSIFIERS = [
